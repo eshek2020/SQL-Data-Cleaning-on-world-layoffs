@@ -1,5 +1,38 @@
 # 🌍 World Layoffs: Data Cleaning & Transformation Project
 
+## 📖 Table of Contents
+* [Project Overview](#-project-overview)
+* [Data Cleaning Workflow](#-data-cleaning-workflow)
+    * [1. Duplicate Removal](#1-duplicate-removal)
+    * [2. Data Standardization](#2-data-standardization)
+    * [3. Date Conversion](#3-date-conversion)
+    * [4. Handling Nulls](#4-handling-nulls)
+* [Technical Skills](#-technical-skills-highlighted)
+* [Data Preview](#-data-preview)
+
+---
+
+## 📌 Project Overview
+This project involves a deep dive into the **World Layoffs** dataset to transform raw, unorganized data into a clean, analysis-ready format. The objective was to follow a rigorous data cleaning workflow to ensure accuracy and consistency across thousands of records.
+
+
+
+... (Your existing content here) ...
+
+---
+
+## 🖼️ Data Preview
+
+### Raw Data (Before Cleaning)
+*Initial state of the `layoffs` table with duplicates and unformatted dates.*
+![Raw Data](INSERT_YOUR_IMAGE_NAME_1_HERE.png)
+
+### Cleaned Data (Final Output)
+*The `layoffs_staging` table after standardization, null removal, and type casting.*
+![Cleaned Data](INSERT_YOUR_IMAGE_NAME_2_HERE.png)
+
+# 🌍 World Layoffs: Data Cleaning & Transformation Project
+
 ## 📌 Project Overview
 This project involves a deep dive into the **World Layoffs** dataset to transform raw, unorganized data into a clean, analysis-ready format. The objective was to follow a rigorous data cleaning workflow to ensure accuracy and consistency across thousands of records.
 
