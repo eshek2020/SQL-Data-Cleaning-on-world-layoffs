@@ -2,13 +2,13 @@
 
 ## 📖 Table of Contents
 * [Project Overview](#-project-overview)
-* [Data Cleaning Workflow](#-data-cleaning-workflow)
+* [Data Cleaning Workflow](#🛠️-data-cleaning-workflow)
     * [1. Duplicate Removal](#1-duplicate-removal)
     * [2. Data Standardization](#2-data-standardization)
     * [3. Date Conversion](#3-date-conversion)
-    * [4. Handling Nulls](#4-handling-nulls)
+    * [4. Handling Nulls](#4-handling-nulls-&-irrelevant-data)
 * [Technical Skills](#-technical-skills-highlighted)
-* [Data Preview](#-data-preview)
+* [Data Preview](#🖼️-data-preview)
 
 ---
 
