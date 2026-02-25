@@ -25,11 +25,11 @@ This project involves a deep dive into the **World Layoffs** dataset to transfor
 
 ### Raw Data (Before Cleaning)
 *Initial state of the `layoffs` table with duplicates and unformatted dates.*
-![Raw Data](INSERT_YOUR_IMAGE_NAME_1_HERE.png)
+![Raw Data](Before.png)
 
 ### Cleaned Data (Final Output)
 *The `layoffs_staging` table after standardization, null removal, and type casting.*
-![Cleaned Data](INSERT_YOUR_IMAGE_NAME_2_HERE.png)
+![Cleaned Data](After.png)
 
 # 🌍 World Layoffs: Data Cleaning & Transformation Project
 
